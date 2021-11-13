@@ -13,7 +13,7 @@ call STATUS_ERROR to delete itself.
 
 #REMINDER#
 
-THIS IS A PoC. BUT is STILL FULLY WORKING. It has added to A PASTED CHEAT , with CLEANED CODE, A BYPASS FROM BATTLEFN CRACKED CHEAT, ( AT THE MOMENT
- OF RELEASE, BYPASS WAS UNDETECTED. AND IT'S STILL NOW, I DON'T KNOW FOR HOW MUCH, CAUSE ITS ALSO SIGNED. IT CAN BE FLAGGED ANYWAY! ) 
+THIS IS A PoC. BUT is STILL FULLY WORKING. It has added to A PASTED CHEAT , with CLEANED CODE, A BYPASS FROM BATTLEFN CRACKED CHEAT, 
+
 
 You can implement easily your batch file and the copy on C:\ of the driver.sys , with a simple cpp or c# console app, easily .
