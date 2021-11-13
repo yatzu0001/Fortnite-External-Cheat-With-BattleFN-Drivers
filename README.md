@@ -20,3 +20,6 @@ pause
 
 
 # then just build and run it ( when in game )
+
+
+## i'm currently also selling a fortnite source ( external ) not trash like the one you are usually pasting, and with a driver bypass, is safe on EAC, if you are interested, just write here and drop your discord in issues.
