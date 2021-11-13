@@ -4,6 +4,8 @@
 ## not too much to say, a pasted external with a little bit cleaned code ( it was repeated like 10 times in some parts ) and changed some parts with 
 ## ReadProcessMemory, so can use the BATTLEFN cracked drivers ( see the repo if you don't what it is )
 
+*if interested in what i changed, just check win_utils and externalmain
+
 *how to use*
 
 *Just put the file DLLHVMK.dll in the same directory of the external, and then you need to put the file "driver.sys" in your C:\directory, and create \
